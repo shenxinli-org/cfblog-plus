@@ -9,6 +9,7 @@ const ACCOUNT = { //账号相关，安全性更高
   "cacheZoneId":"14622dbaafea1f2aed951c5a19db2bc4",//区域 ID
   "cacheToken":"LJXo15742LZEtYnTWnZdXx5A5KdHdB9nvd689nUG",//API token
 
+  
   "kv_var": this['CFBLOG'],//workers绑定kv时用的变量名
 }
 
